@@ -16,8 +16,11 @@ header{
 h1, h2{
 	font-family: 'Bree Serif', serif;
 }
+
+/* header styles */
+
 header h1{
-	color: white;
+	color: #D40808;
 	font-family: 'Bree Serif', serif;
 	font-size: 60px;
 }
@@ -54,7 +57,7 @@ a:hover{
 }
 
 footer{
-	background-color: #D40808;
+	background-color: #0A326D;
 	color: white;
 	text-align: center;
 	padding: 50px;
